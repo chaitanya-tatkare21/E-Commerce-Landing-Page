@@ -21,7 +21,7 @@ Designed with inspiration from popular online retailers, this frontend project d
 
 ## 🚀 Live Demo
 
-🌐 [live Demo]( )
+🌐 [live Demo](https://chaitanya-tatkare21.github.io/E-commerce-landing-page/)
 
 ## 🙌 Acknowledgements
 
